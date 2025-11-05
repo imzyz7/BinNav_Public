@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/11/5 20:34:46
+// 网站数据 - 通过管理后台更新于 2025/11/5 20:40:05
 
 // 站点配置
 export const siteConfig = {
@@ -276,8 +276,8 @@ export const websiteData = [
 export const categories = [
   {
     "id": "author",
-    "name": "作者专栏",
-    "icon": "/assets/tech_blogger_avatar.png",
+    "name": "im𝔃𝔂𝔃",
+    "icon": "/assets/Zfavicon.png",
     "special": true,
     "subcategories": []
   },
