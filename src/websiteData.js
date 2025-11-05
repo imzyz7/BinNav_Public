@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/11/5 20:42:10
+// 网站数据 - 通过管理后台更新于 2025/11/5 20:52:06
 
 // 站点配置
 export const siteConfig = {
@@ -15,82 +15,82 @@ export const websiteData = [
   {
     "id": 1751807882512,
     "name": "im𝔃𝔂𝔃",
-    "description": "作者个人站点展示",
-    "url": "https://i.bincore.cn/",
+    "description": "个人日常分享",
+    "url": "https://imzyz.com/",
     "category": "author",
     "tags": [
       "个人站点"
     ],
-    "icon": "https://icon.nbvil.com/favicon?url=i.bincore.cn"
+    "icon": "https://icon.nbvil.com/favicon?url=imzyz.com"
   },
   {
     "id": 40,
-    "name": "Newbie Village",
-    "description": "二进制博客",
-    "url": "https://blog.nbvil.com/",
+    "name": "天长递酒",
+    "description": "教程分享博客",
+    "url": "https://dbeer.com/",
     "category": "author",
     "tags": [
       "个人博客",
       "教程分享",
       "开发心得"
     ],
-    "icon": "https://icon.nbvil.com/favicon?url=blog.nbvil.com"
+    "icon": "/assets/logo.png"
   },
   {
     "id": 1751813976438,
-    "name": "博主云盘",
+    "name": "外链分享网盘",
     "description": "分享教程涉及的工具及相关文档代码",
-    "url": "https://pan.nbvil.com/",
+    "url": "https://pan.dbeer.cn/",
     "category": "author",
     "tags": [
       "云盘"
     ],
-    "icon": "https://icon.nbvil.com/favicon?url=pan.nbvil.com"
+    "icon": "https://icon.nbvil.com/favicon?url=pan.dbeer.cn"
   },
   {
     "id": 1751598590526,
-    "name": "YouTube频道",
-    "description": "作者YouTube频道，定期上传视频教程",
-    "url": "https://www.youtube.com/@nbvil.sindri",
+    "name": "im𝔃𝔂𝔃影视",
+    "description": "私有影视网站，账号密码imzyz",
+    "url": "https://eeeeeee.cc",
     "category": "author",
     "tags": [
       "视频"
     ],
-    "icon": "https://icon.nbvil.com/favicon?url=www.youtube.com"
+    "icon": "https://icon.nbvil.com/favicon?url=eeeeeee.cc"
   },
   {
     "id": 41,
-    "name": "GitHub Projects",
-    "description": "作者开源项目",
-    "url": "https://github.com/sindricn",
+    "name": "全网小说下载",
+    "description": "小说搜索下载神器",
+    "url": "https://book.imzyz.com",
     "category": "author",
     "tags": [
       "开源项目"
     ],
-    "icon": "https://icon.nbvil.com/favicon?url=github.com"
+    "icon": "https://icon.nbvil.com/favicon?url=book.imzyz.com"
   },
   {
     "id": 1751596898467,
-    "name": "B站",
-    "description": "作者B站频道，不定期上传视频教程",
-    "url": "https://space.bilibili.com/3546865807133625",
+    "name": "Telegram",
+    "description": "小飞机你懂得",
+    "url": "https://t.me/imzyz7",
     "category": "author",
     "tags": [
-      "视频"
+      "联系方式"
     ],
-    "icon": "https://icon.nbvil.com/favicon?url=bilibili.com"
+    "icon": "/assets/logo.png"
   },
   {
     "id": 45,
-    "name": "知乎专栏",
-    "description": "二进制-知乎",
-    "url": "https://www.zhihu.com/people/mrblack-41-9",
+    "name": "每日热榜API",
+    "description": "使用教程天长递酒博客查看",
+    "url": "https://api.eeeeeee.cc/",
     "category": "author",
     "tags": [
-      "知乎专栏",
+      "API",
       "技术文章"
     ],
-    "icon": "https://icon.nbvil.com/favicon?url=www.zhihu.com"
+    "icon": "https://icon.nbvil.com/favicon?url=api.eeeeeee.cc"
   },
   {
     "id": 1751617129171,
