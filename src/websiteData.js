@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/11/5 19:55:24
+// 网站数据 - 通过管理后台更新于 2025/11/5 20:34:46
 
 // 站点配置
 export const siteConfig = {
@@ -14,7 +14,7 @@ export const siteConfig = {
 export const websiteData = [
   {
     "id": 1751807882512,
-    "name": "个人站点",
+    "name": "im𝔃𝔂𝔃",
     "description": "作者个人站点展示",
     "url": "https://i.bincore.cn/",
     "category": "author",
