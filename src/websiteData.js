@@ -1,4 +1,4 @@
-// 网站数据 - 通过管理后台更新于 2025/11/5 20:40:05
+// 网站数据 - 通过管理后台更新于 2025/11/5 20:42:10
 
 // 站点配置
 export const siteConfig = {
@@ -277,7 +277,7 @@ export const categories = [
   {
     "id": "author",
     "name": "im𝔃𝔂𝔃",
-    "icon": "/assets/Zfavicon.png",
+    "icon": "/assets/Zavatar.png",
     "special": true,
     "subcategories": []
   },
